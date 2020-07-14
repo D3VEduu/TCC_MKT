@@ -1,3 +1,6 @@
 .corpo-admin{
-    background-image: url("../../../imgs/cubes-3d-abastract-admin-login.jpg");
+    background-image: url("../../imgs/photo-of-airplane-with-smoke-trail.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }

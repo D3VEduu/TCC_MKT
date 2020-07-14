@@ -1,4 +1,9 @@
-
+.corpo-admin{
+    background-image: url("../imgs/red-oh-la-la-light.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
 .bradius {
     border-radius: 5px;
 }
